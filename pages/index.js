@@ -1,5 +1,9 @@
+const { Main } = require("next/document")
+
+
 function HomePage() {
-    return <div>Welcome to Next.js!</div>
+    return <div>Welcome Next.js!</div>
+    
  }
  
  export default HomePage

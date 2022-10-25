@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Henzolena/vercel-next/issues"
   },
-  "homepage": "https://github.com/Henzolena/vercel-next#readme"
+  "homepage": "https://github.com/Henzolena/vercel-next#readme",
+  "dependencies": {
+    "vercel": "^19.1.2"
+  }
 }
